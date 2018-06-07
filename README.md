@@ -16,7 +16,7 @@ $ conda create -n tensorflow pip python=3.6 # or python=2.7, etc.
 
 $ source activate tensorflow (run this each time you want to use tensorflow)
 
-pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.8.0-cp34-cp34m-linux_x86_64.whl
+$ pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.8.0-cp34-cp34m-linux_x86_64.whl
 
 
 How to run: 
