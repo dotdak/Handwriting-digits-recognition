@@ -8,6 +8,6 @@ $python createmodel.py
 
   train and save in model2.ckpt
   
-$python predictmodel.py
+$python predictmodel.py test_image.png
 
   feed image and export result
