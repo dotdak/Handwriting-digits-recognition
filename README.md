@@ -20,6 +20,8 @@ $ pip install pillow
 
 $ pip install sklearn
 
+$ pip install scipy
+
 $ conda install -c conda-forge tensorflow
 
 
