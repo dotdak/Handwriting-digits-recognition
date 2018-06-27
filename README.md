@@ -24,6 +24,9 @@ $ pip install scipy
 
 $ conda install -c conda-forge tensorflow
 
+Finally, install OpenCV library
+
+$ conda install -c conda-forge opencv
 
 How to run: 
 
