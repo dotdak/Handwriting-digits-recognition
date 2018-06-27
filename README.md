@@ -16,7 +16,9 @@ $ source activate tensorflow (run this each time you want to use tensorflow)
 
 Then, install Tensorflow on Python and all others libraries that listed in code. It is recommended to install Tensorflow in a virtual environment so that it doesn't harm to your Python software
 
-$ pip install Pillow
+$ pip install pillow
+
+$ pip install sklearn
 
 $ conda install -c conda-forge tensorflow
 
