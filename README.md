@@ -18,9 +18,9 @@ Then, install Tensorflow on Python and all others libraries that listed in code.
 
 $ pip install pillow
 
-$ pip install sklearn
-
 $ pip install scipy
+
+$ pip install scikit-learn
 
 $ conda install -c conda-forge tensorflow
 
